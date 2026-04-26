@@ -57,7 +57,7 @@ Bachelor of Engineering — **Refrigeration & Air Conditioning Engineering** (20
 ### Activities and societies
 - **Development of a Carbon Capture Mask System** *(Team Leader)* (2022)
 - **Waste Heat-based Freeze / Freeze-Drying System** *(Team Leader)* (2021)
-- **President, Student Council**
+- **President, Student Council** (2021)
 
 ### International Experience
 - 🇨🇦 **Completed ESL Program (Level 6)** — St. George International College, Toronto, Canada (2024)
