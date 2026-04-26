@@ -25,46 +25,46 @@ Focused on **physics-based modeling**, **system-level analysis**, and **simulati
 
 ## ⚙️ Experience
 
-**GREATUS** — Thermal-Hydraulic Engineer  
+**GREATUS** — Thermal-Hydraulic Engineer (2025-present)
 - Developed and improved simulation models for **nuclear power plant systems**  
 - Participated in **APR 3&4 simulator performance improvement projects**  
 - Developed **real-time data-based abnormal condition prediction simulation systems**  
 - Performed **thermal-fluid analysis** and **system-level engineering calculations**  
 
-**Republic of Korea Marine Corps** — KAAV Operator / Maintenance Mechanic  
+**Republic of Korea Marine Corps** — KAAV Operator / Maintenance Mechanic (2017 - 2019)
 - Operated and maintained **amphibious assault vehicles**  
 - Built a strong foundation in **mechanical systems and maintenance**  
-- Gained field experience in **equipment reliability and operation**  
+- Gained field experience in **equipment reliability and operation** 
 
 ---
 
 ## 🚀 Key Projects
 
-- **Nuclear Power Plant Simulator Performance Improvement (Hanul NPP, APR Units 3 & 4)**  
-- **Real-time Data-based Abnormal Condition Prediction Simulation System (KHNP Central Research Institute)**  
-- **Thermal-hydraulic system modeling and simulation software development**  
+- **Nuclear Power Plant Simulator Performance Improvement (Hanul NPP, APR Units 3 & 4)** (2025-present)
+- **Real-time Data-based Abnormal Condition Prediction Simulation System (KHNP Central Research Institute)** (2025-present)
+- **Thermal-hydraulic system modeling and simulation software development** (2025-present)
 
 ---
 
 ## 🎓 Education
 
 **Chonnam National University**  
-Bachelor of Engineering — **Refrigeration & Air Conditioning Engineering**
+Bachelor of Engineering — **Refrigeration & Air Conditioning Engineering** (2023)
 
 - 🏆 **Top Graduate (Rank 1)**  
 - GPA: **4.14 / 4.5** (Major: **4.42 / 4.5**)  
 
 ### Activities and societies
-- **Development of a Carbon Capture Mask System** *(Team Leader)*  
-- **Waste Heat-based Freeze / Freeze-Drying System** *(Team Leader)*  
+- **Development of a Carbon Capture Mask System** *(Team Leader)* (2022)
+- **Waste Heat-based Freeze / Freeze-Drying System** *(Team Leader)* (2021)
 - **President, Student Council**
 
 ### International Experience
-- 🇨🇦 **Completed ESL Program (Level 6)** — St. George International College, Toronto, Canada
+- 🇨🇦 **Completed ESL Program (Level 6)** — St. George International College, Toronto, Canada (2024)
 
 ### Additional Training
-- **AI Modeling Track (IoT)** - Gwangju AI School
-- **AI Developer Course (Basic & Fundamental)** - Jeonnam Information & Culture Industry Promotion Agency
+- **AI Modeling Track (IoT)** - Gwangju AI School (2023)
+- **AI Developer Course (Basic & Fundamental)** - Jeonnam Information & Culture Industry Promotion Agency (2021)
 
 ---
 
@@ -81,17 +81,17 @@ Bachelor of Engineering — **Refrigeration & Air Conditioning Engineering**
 ## 🏆 Achievements
 
 ### 🎓 Academic & Engineering Awards
-- **Top Graduate Award** — Chonnam National University  
-- **Capstone Design Contest** — Bronze Award  
-- **Engineering Education Festa Contest** — Special Award  
-- **Creative Comprehensive Design Contest** — Bronze Award  
-- **Engineering College Achievement Award**  
+- **Top Graduate Award** — Chonnam National University (2023)
+- **Capstone Design Contest** — Bronze Award (2021)
+- **Engineering Education Festa Contest** — Special Award (2021)
+- **Creative Comprehensive Design Contest** — Bronze Award (2021)
+- **Engineering College Achievement Award** (2021)
 
 ### 🤖 AI / Data-related Awards
-- **AI Modeling Practical Competency Project** — Grand Prize  
-- **AI Convergence Content Contest** — Excellence Award  
-- **Industry-Linked Project** — Excellence Award  
-- **AI Modeling Track Capstone Project** — Excellence Award  
+- **AI Modeling Practical Competency Project** — Grand Prize (2023)
+- **AI Convergence Content Contest** — Excellence Award (2023)
+- **Industry-Linked Project** — Excellence Award (2023)
+- **AI Modeling Track Capstone Project** — Excellence Award (2023)
 
 ---
 
